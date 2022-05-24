@@ -1,0 +1,12 @@
+img{
+    height: 250px;
+}
+
+.item{
+    background-color: lightgreen;
+    height: 350px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+
